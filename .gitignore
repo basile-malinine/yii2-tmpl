@@ -1,0 +1,13 @@
+# phpstorm project files
+.idea
+
+composer.lock
+
+# windows thumbnail cache
+Thumbs.db
+
+# composer vendor dir
+/vendor
+
+tests/_output/*
+tests/_support/_generated
